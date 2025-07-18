@@ -17,7 +17,7 @@ class details{
 int main() {
 details d1, d2;
 
-d1.setdata(25, "Alice");
+d1.setdata(25, "Sam");
 d2.setdata(30, "Bob");
 d1.display();
 d2.display();
