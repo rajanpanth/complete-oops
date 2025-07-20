@@ -1,0 +1,20 @@
+# Ignore PDF files
+*.pdf
+
+# Ignore executable files
+*.exe
+
+# Ignore object files
+*.o
+*.obj
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore Visual Studio Code settings (optional)
+.vscode/
+
+# Ignore system files
+Thumbs.db
+.DS_Store
